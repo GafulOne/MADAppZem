@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MADAppZem</string>
+    <string name="welcom">ПРИВЕТ</string>
+    <string name="welcom_text">Наслаждайся отборочными. \n Будь внимателен. \n Делай хорошо.</string>
+    <string name="registor_text">Зарегестрарируйтесь</string>
+    <string name="without_account_text">Ещё нет аккаунта?</string>
+    <string name="sing_in">Sing in</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="register">Register</string>
+    <string name="welcome_main">С возращением, Эмиль!</string>
+    <string name="welcome_main_text">Каким ты себя ощущаешь сегодня?</string>
+    <string name="zagolovok"> Заголовок блока</string>
+    <string name="short_discription"> Кратенькое описание \nблока с двумя строчками</string>
+    <string name="todo">TODO</string>
+</resources>
