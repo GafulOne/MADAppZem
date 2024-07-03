@@ -13,6 +13,21 @@
         android:theme="@style/Theme.MADAppZem"
         tools:targetApi="31">
         <activity
+            android:name=".empty_listen"
+            android:exported="false" />
+        <activity
+            android:name=".photo_screen"
+            android:exported="false" />
+        <activity
+            android:name=".profile_screen"
+            android:exported="false" />
+        <activity
+            android:name=".emptyRegistration"
+            android:exported="false" />
+        <activity
+            android:name=".EmptyMenu"
+            android:exported="false" />
+        <activity
             android:name=".main_screen"
             android:exported="false" />
         <activity
